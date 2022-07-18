@@ -1,0 +1,6 @@
+__pycache__
+.pytest_cache
+archived_logs
+latest_logs
+myenv
+screenshots
