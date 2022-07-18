@@ -1,4 +1,4 @@
-# Wordle_solver
+# Wordle Solver
 
 This project allows you to quickly use solver to get the correct guess for Wordle using SeleniumBase and pytest.
 
